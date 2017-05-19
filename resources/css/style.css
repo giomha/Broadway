@@ -1,5 +1,41 @@
 body {
-  font-family: cursive;
+  font-family:helvetica;
   text-align: center;
    background-color: white;
+}
+.bgpIron {
+  background-image: url("../images/the-flatiron-building.png");
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.bgpIron a {
+  color:white;
+  font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.StrHeading {
+  font-size: 23px;
+  font-weight: bold;
+}
+.Narrative {
+  font-size: 14px;
+}
+.bgpIron .StrHeading {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.Footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
+.Footer a {
+  color: white;
 }
